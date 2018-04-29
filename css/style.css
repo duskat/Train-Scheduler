@@ -1,0 +1,30 @@
+body{
+    background: url('https://i.pinimg.com/originals/be/ea/18/beea18084bb131eb9289364ab03bd6c4.jpg') center center fixed no-repeat;
+    background-size: cover;  
+    font-family: 'Open Sans', sans-serif;  
+}
+.heading{
+    padding: 0;
+    margin: 20px;
+}
+
+#header{
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.table-dark{
+background-color: #212529de;
+}
+.card{
+    background-color: #ffffff69;
+    margin-bottom: 20px;
+}
+.form-control{
+    background-color: #444647;
+    color: #ffffff;
+}
+input::-webkit-input-placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white !important;
+}
